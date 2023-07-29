@@ -33,3 +33,4 @@ Developed by [だるぷ](https://github.com/mitixx)
 
 go mod init <ここには何を書く？> | https://teratail.com/questions/217859?sort=1  
 Go の workspace を使ってみる | https://goodbyegangster.hatenablog.com/entry/2022/10/11/081836
+【Go】コロンイコール(:=)って何? | https://tektektech.com/go-colon-and-equal/
