@@ -3,6 +3,13 @@
 Go 言語練習用リポジトリ  
 ISUCON は Go で書かれたシステムをチューニングする競技らしいので、Go に入門して Go への抵抗を無くすことが目的
 
+入門時の Go のバージョン： 1.19.10
+
+```
+ctsetera@DESKTOP-OR5PJU2 ~/D/practice-go (master)> go version
+go version go1.19.10 linux/amd64
+```
+
 # 内容
 
 - test01 -> "Hello World"を表示します
