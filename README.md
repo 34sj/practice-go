@@ -27,7 +27,12 @@ go version go1.19.10 linux/amd64
 - test13 -> array と slice
 - test14 -> for による slice の操作
 - test15 -> map (key value で値を持っとくやつ)
-- test16 -> 関数・クロージャ
+- test16 -> メソッド・クロージャ
+- test17 -> レシーバを持ったメソッド
+- test18 -> レシーバを持ったメソッド
+- test19 -> インターフェースメソッド
+- test20 -> エラー
+- test21 -> データストリーム
 
 # 参考
 
@@ -35,7 +40,7 @@ go version go1.19.10 linux/amd64
 
 チュートリアル: Go 言語をはじめよう | https://qiita.com/muranet/items/bbcfce2f0d31d2fd8417
 
-## test03 ~ test16 (test06 を除く)
+## test03 ~ test21 (test06 を除く)
 
 A Tour of Go | https://go-tour-jp.appspot.com/list
 
@@ -48,4 +53,5 @@ Developed by [だるぷ](https://github.com/mitixx)
 go mod init <ここには何を書く？> | https://teratail.com/questions/217859?sort=1  
 Go の workspace を使ってみる | https://goodbyegangster.hatenablog.com/entry/2022/10/11/081836  
 【Go】コロンイコール(:=)って何? | https://tektektech.com/go-colon-and-equal/  
-Go 言語のスライスで勘違いしやすいこところ | https://qiita.com/Kashiwara/items/e621a4ad8ec00974f025
+Go 言語のスライスで勘違いしやすいこところ | https://qiita.com/Kashiwara/items/e621a4ad8ec00974f025  
+Go の interface がわからない人へ　| https://qiita.com/rtok/items/46eadbf7b0b7a1b0eb08
