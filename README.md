@@ -54,4 +54,5 @@ go mod init <ここには何を書く？> | https://teratail.com/questions/21785
 Go の workspace を使ってみる | https://goodbyegangster.hatenablog.com/entry/2022/10/11/081836  
 【Go】コロンイコール(:=)って何? | https://tektektech.com/go-colon-and-equal/  
 Go 言語のスライスで勘違いしやすいこところ | https://qiita.com/Kashiwara/items/e621a4ad8ec00974f025  
+Go - メソッドとレシーバ | https://qiita.com/Yuuki557/items/e9f5bdfbbfe92973a05e  
 Go の interface がわからない人へ　| https://qiita.com/rtok/items/46eadbf7b0b7a1b0eb08
