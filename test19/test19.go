@@ -47,7 +47,7 @@ func main() {
 	fmt.Println(a.Abs())
 
 	// ゼロ個のメソッドを指定されたインターフェース型は、 空のインターフェース と呼ばれます
-	// すまん、これ使うことあんの？？
+	// JavaでいうところのObjectみたいなもんらしい　万能
 	var i interface{}
 	describe(i)
 	i = 42
