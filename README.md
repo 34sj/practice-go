@@ -43,7 +43,7 @@ go version go1.19.10 linux/amd64
 
 チュートリアル: Go 言語をはじめよう | https://qiita.com/muranet/items/bbcfce2f0d31d2fd8417
 
-## test03 ~ test21 (test06 を除く)
+## test03 ~ test24 (test06 を除く)
 
 A Tour of Go | https://go-tour-jp.appspot.com/list
 
