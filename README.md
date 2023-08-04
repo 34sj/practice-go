@@ -33,6 +33,9 @@ go version go1.19.10 linux/amd64
 - test19 -> インターフェースメソッド
 - test20 -> エラー
 - test21 -> データストリーム
+- test22 -> goroutine マルチスレッド
+- test23 -> channel
+- test24 -> channel の close
 
 # 参考
 
@@ -55,4 +58,5 @@ Go の workspace を使ってみる | https://goodbyegangster.hatenablog.com/ent
 【Go】コロンイコール(:=)って何? | https://tektektech.com/go-colon-and-equal/  
 Go 言語のスライスで勘違いしやすいこところ | https://qiita.com/Kashiwara/items/e621a4ad8ec00974f025  
 Go - メソッドとレシーバ | https://qiita.com/Yuuki557/items/e9f5bdfbbfe92973a05e  
-Go の interface がわからない人へ　| https://qiita.com/rtok/items/46eadbf7b0b7a1b0eb08
+Go の interface がわからない人へ　| https://qiita.com/rtok/items/46eadbf7b0b7a1b0eb08  
+Go の goroutine, channel をちょっと攻略！ | https://qiita.com/ta1m1kam/items/fc798cdd6a4eaf9a7d5e
